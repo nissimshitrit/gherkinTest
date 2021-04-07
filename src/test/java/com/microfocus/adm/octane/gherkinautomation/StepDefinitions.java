@@ -130,18 +130,18 @@ public class StepDefinitions {
     public void hi() {
     }
 
-    @Given("g")
-    public void g() {
+    @Given("g1")
+    public void g1() {
 
     }
 
-    @When("w")
-    public void w() {
+    @When("w1")
+    public void w1() {
 
     }
 
-    @Then("t")
-    public void t() {
+    @Then("t1")
+    public void t1() {
         assertTrue(true);
     }
 }
